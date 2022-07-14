@@ -17,9 +17,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics-plugin.svg
           base: header, activity, community, repositories, metadata
-          plugin_isocalendar: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 13382000
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 3
+          plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
