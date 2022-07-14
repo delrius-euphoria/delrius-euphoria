@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/metrics-plugin.svg" alt="Metrics" width="400">
